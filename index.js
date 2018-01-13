@@ -1,6 +1,4 @@
-a = Math.floor(Math.random() * 1000)
-b = Math.floor(Math.random() * 1000)
-
-function add(a,b){
-  add = a + b
+var number = 10
+function add5(){
+  number += 5
 }
